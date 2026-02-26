@@ -1,0 +1,18 @@
+/* change page style */
+
+/*style for paragraph*/
+body {
+    background-color: rgb(231, 225, 253);
+    color: rgb(86, 46, 124);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: rgb(114, 79, 138);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2 {
+    color: rgb(151, 102, 197);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
